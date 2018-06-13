@@ -8,6 +8,8 @@ from IPython import embed
 
 load_dotenv()
 
+#adapted from source: https://github.com/prof-rossetti/stocks-app-py
+
 def parse_response(response_text):
     if isinstance(response_text, str):
         response_text = json.loads(response_text)
