@@ -1,3 +1,5 @@
+adapted from source: https://github.com/prof-rossetti/stocks-app-py
+
 # Stock Recommendation App
 
 A command-line Python application which processes user inputs and stock market data from the [AlphaVantage API](https://www.alphavantage.co) to provide stock purchase recommendations.
